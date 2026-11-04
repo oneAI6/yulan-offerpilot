@@ -1,0 +1,19 @@
+{
+  "candidate_alias": "示例求职者",
+  "authorization": {
+    "mode": "draft",
+    "platforms": [],
+    "scope_note": "虚构示例，仅准备材料；实际授权由使用者在私有副本中填写",
+    "allow_unverified_application": false
+  },
+  "criteria": {
+    "fixed_salary": {"required": true, "rule": "示例：税前月固定工资至少8000，目标9000"},
+    "rest_days": {"required": true, "rule": "示例：每周六日双休"},
+    "location": {"required": true, "rule": "示例城市的目标办公区域"},
+    "commute": {"required": true, "rule": "示例：早晚高峰门到门不超过45分钟"},
+    "business": {"required": true, "rule": "符合本人明确的行业和业务边界"},
+    "employment": {"required": true, "rule": "劳动合同主体、工资和社保安排可核实"},
+    "fit": {"required": false, "rule": "内容制作或相邻岗位，与本人真实作品匹配"}
+  },
+  "followup": {"minimum_hours": 48, "max_confirmed": 1}
+}

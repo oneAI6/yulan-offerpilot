@@ -1,0 +1,4 @@
+interface:
+  display_name: "自动求职助手"
+  short_description: "从真实简历、模板选版到岗位筛选、授权投递、招聘沟通与证据跟进"
+  default_prompt: "使用 $job-search-copilot，根据我的简历和条件推进找工作、简历优化、岗位投递与招聘沟通。"

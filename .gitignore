@@ -1,0 +1,17 @@
+.private/
+runs/
+inputs/
+outputs/
+evidence/
+profile.json
+*.sqlite3
+*.sqlite3-*
+*.db
+*.csv
+*.jsonl
+.env
+.env.*
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
